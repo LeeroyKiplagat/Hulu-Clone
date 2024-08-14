@@ -20,9 +20,9 @@ function Header() {
         <HeaderItem title="SEARCH" Icon={SearchIcon} />
         <HeaderItem title="ACCOUNT" Icon={UserIcon} />
       </div>
-      <div> 
-     <h1 className="text-xl font-bold">LEEROY</h1>
-    </div>
+     
+      <h1 className="text-xl font-bold">LEEROY</h1>
+    
     </header>
   );
 }
